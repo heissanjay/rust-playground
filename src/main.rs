@@ -1,8 +1,9 @@
 /*
 
 author: San_J (heissajay)
-ema
+email: heissanjay@gmail.com
 
+:multiverse:
 
 */
 
